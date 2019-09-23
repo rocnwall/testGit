@@ -1,3 +1,3 @@
-Ceci est un test de fonctionnement de GitHub.
+Ceci est un teste de fonctionnement de GitHub.
 tyuik
 ^ppooppp
